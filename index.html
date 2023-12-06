@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="styles.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <title>Arsenal FC Player Stats</title>
+  </head>
+  <body>
+    <h1 id="homepage">Arsenal FC Player Stats</h1>
+    <hr>
+    <img src="Images/arsenalfc_badge.svg" alt="picture of Arsenal FC badge found on google.">
+    <p><em>"Victoria Concordia Crescit"</em></p>
+    <hr>
+    <p>Hello! Welcome to my Arsenal FC Statistics Collection where I have compiled some stats of the greatest players past and present to ever play for the club.</p>
+    
+    
+    <h2><em>Player List</em></h2>
+    <p><strong>Below</strong> I have listed a few players you can choose from when you fill out the form towards the bottom of the page.</p>
+    
+
+    <ol class="home">
+      <li>Thierry Henry</li>
+      <li>Dennis Bergkamp</li>
+      <li>Mikel Arteta</li>
+      <li>Ian Wright</li>
+      <li>Tony Adams</li>
+      <li>Mesut Ozil</li>
+      <li>Robert Pires</li>
+      <li>Freddie Ljungberg</li>
+      <li>Patrick Vieira</li>
+      <li>Alexis Sanchez</li>
+    </ol>
+   <aside>
+
+      <p>These players made Arsenal what is is today!</p>
+    </aside>
+    <hr>
+   <p>Fill out the form below and hit submit when ready!</p>
+   <br>
+
+   <form id="player-list">
+    <div>
+      <label for="playerList" class="player_list">Enter a Player's name:</label>
+      <input type="text" id="playerList">
+    </div>
+    <div>
+      <label class="radio-buttons">Select which stats you would like to see:</label>
+
+            <div>
+              <input type="radio" id="radioGoals" name="stats-goals" value="goals">
+            <label for="radioGoals">Goals</label>
+            <input type="radio" id="radioYellowCards" name="stats-yellows" value="yellows">
+            <label for="radioYellowCards">Yellow Cards</label>
+            </div>
+            <div>
+              <input type="radio" id="radioAssists" name="stats-assists" value="midfield">
+              <label for="radioAssists">Assists</label>
+              <input type="radio" id="radioRedCards" name="stats-reds" value="reds">
+              <label for="radioRedCards">Red Cards</label>
+          
+    </div>
+
+    <button type="submit" id="submit-button">Submit</button>
+   </form>
+   <div id="results"></div>
+
+   <script src="script.js"></script>
+
+  </body>
+</html>

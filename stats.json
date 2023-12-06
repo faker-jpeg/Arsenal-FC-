@@ -1,0 +1,72 @@
+[{
+    "name": "Thierry Henry",
+    "goals": 360,
+    "assists": 177,
+    "yellowCards": 92,
+    "redCards": 3
+},
+
+{
+    "name": "Dennis Bergkamp",
+    "goals": 268,
+    "assists": 132,
+    "yellowCards": 54,
+    "redCards": 4
+},
+{
+    "name": "Mikel Arteta",
+    "goals": 73,
+    "assists": 56,
+    "yellowCards": 88,
+    "redCards": 3
+},
+{
+    "name": "Ian Wright",
+    "goals": 221,
+    "assists": 18,
+    "yellowCards": 59,
+    "redCards": 1
+},
+{
+    "name": "Tony Adams",
+    "goals": 43,
+    "assists": 10,
+    "yellowCards": 53,
+    "redCards": 4
+},
+{
+    "name": "Mesut Ozil",
+    "goals": 114,
+    "assists": 222,
+    "yellowCards": 48,
+    "redCards": 3
+},
+{
+    "name": "Robert Pires",
+    "goals": 167,
+    "assists": 107,
+    "yellowCards": 53,
+    "redCards": 1
+},
+{
+    "name": "Freddie Ljungberg",
+    "goals": 79,
+    "assists": 55,
+    "yellowCards": 47,
+    "redCards": 1
+},
+{
+    "name": "Patrick Vieira",
+    "goals": 56,
+    "assists": 71,
+    "yellowCards": 165,
+    "redCards": 4
+},
+{
+    "name": "Alexis Sanchez",
+    "goals": 200,
+    "assists": 144,
+    "yellowCards": 84,
+    "redCards": 1
+}
+]

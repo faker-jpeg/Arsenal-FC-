@@ -1,0 +1,43 @@
+body {
+    background-color: rgba(181, 70, 70, 0.813);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    color: whitesmoke;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+ol {
+    font-weight: 700;
+    font-family: cursive;
+}
+p em{
+    color: white;
+    display: block;
+    margin: auto;
+
+}
+
+p strong {
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+
+h1 {
+    text-decoration: overline;
+    color: goldenrod;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
